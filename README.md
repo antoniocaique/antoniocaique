@@ -1,0 +1,4 @@
+- olá meu nome é @antoniocaique
+- meu email de contato é caique.antonio@escola.pr.gov.br
+- tenho interesse em aprender novas linguagens
+- eu estou aprendendo recentemente a linguagem de javascript e scratch
